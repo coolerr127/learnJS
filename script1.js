@@ -87,4 +87,3 @@ let appData = {
         }
     }
 };
-appData.showAppData();
